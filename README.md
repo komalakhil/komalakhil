@@ -24,4 +24,5 @@ In the future, I aim to combine my technical expertise with my entrepreneurial m
 ---
 
 🔗 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/kvkakhil/) • [GitHub](https://github.com/komalakhil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kvkakhil/) 
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://github.com/komalakhil)
