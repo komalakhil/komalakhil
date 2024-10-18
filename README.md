@@ -1,4 +1,4 @@
-# Hi, I'm K.V.Komal AKhil 👋
+# Hi, I'm K.V.Komal Akhil 👋
 
 I'm a passionate software engineer with a diverse background in **MERN stack** development, **SQL**, and **AWS**. I specialize in building scalable web applications and have extensive experience designing **real-time machine learning applications**, **deep learning classifiers**, and **AI systems**.
 
